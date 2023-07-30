@@ -1,0 +1,66 @@
+h1{
+    color: aquamarine;
+    background-color: black;
+    border-radius: 10px;
+    border: 3px dashed white;
+    font-size: 40px;
+    padding: 12px 12px 12px 20px;
+    text-align: center;
+    margin-top: -10px;
+    
+
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+   
+    font-size: 35px;
+    /* padding: 20px; */
+    padding:10px 10px 10px 10px;
+    margin: 10px 20px 10px 20px;
+    
+}
+
+Div{
+    text-align: center;
+    
+   
+}
+
+#a{border-radius: 10px;
+    margin: 10px 20px 10px 20px ;
+    padding: 10px 20px 10px 20px ;
+    color: aqua;
+    background-color: rgb(233, 20, 20);
+
+
+}
+
+#b{border-radius: 10px;
+    margin: 10px 20px 10px 20px ;
+    padding: 10px 20px 10px 20px ;
+    color: rgb(117, 223, 143);
+    background-color: rgb(189, 8, 134);
+    
+
+}
+
+#c{border-radius: 10px;
+    margin: 10px 20px 10px 20px ;
+    padding: 10px 20px 10px 20px ;
+    color: rgb(89, 7, 241);
+    background-color: rgb(33, 228, 50);
+    
+
+}
+
+#d{border-radius: 10px;
+    margin: 10px 20px 10px 20px ;
+    padding: 10px 20px 10px 20px ;
+    color: rgb(174, 226, 150);
+    background-color: black;
+    
+
+}
+
+ 
